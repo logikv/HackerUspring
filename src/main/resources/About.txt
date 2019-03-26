@@ -1,0 +1,9 @@
+Список команд:
+
+- help - српавочная информация о программе
+- users - получение списка пользователей
+- find [user_id] - получение пользователя по id
+- delete [user_id] - удаление пользователя по id
+- insert [user_id] [first_name] [last_name] [email] [gender] [ip_address]
+- update [user_id] [first_name] [last_name] [email] [gender] [ip_address]
+- exit - выход из программы
